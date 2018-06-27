@@ -5,6 +5,8 @@ in this game player needs to cross the path without colliding with any of the _e
 ## Getting Started
 When game loads up, a player will display with some _enemy bugs_ moving horizontally from left to right. You can use arrow keys to move the player and save him from the enemies.
 
+<p align="center"><img src="images/one.gif" width="400px" height="450px"></p>
+
  *__[Click here!](https://mpreetkaur.github.io/Frogger-game/)__ to play the game.*
  ### How to play the game
 1. Open the link or click on highlighted above link.
