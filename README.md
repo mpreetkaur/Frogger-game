@@ -18,5 +18,5 @@ When game loads up, a player will display with some _enemy bugs_ moving horizont
 [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)
 
 ### Author
-Manpreet Kaur(159325).
+Manpreet Kaur.
 
