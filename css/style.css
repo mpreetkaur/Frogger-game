@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-image: url("http://www.powerpointhintergrund.com/download/-varies-in-lightness-and-darkness-still-the-style-is-simple-and-clean-4079")
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 40px;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2,h3 {
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
